@@ -1,1 +1,1 @@
-# lms-collab
+# LMS Collab Library Management System (Roll Nos. 26, 55, 56)
